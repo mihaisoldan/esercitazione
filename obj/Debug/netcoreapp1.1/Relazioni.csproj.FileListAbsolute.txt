@@ -1,0 +1,8 @@
+/home/mihai/VisualCodeProjects/Esercitazioni/Relazioni/bin/Debug/netcoreapp1.1/Relazioni.deps.json
+/home/mihai/VisualCodeProjects/Esercitazioni/Relazioni/bin/Debug/netcoreapp1.1/Relazioni.runtimeconfig.json
+/home/mihai/VisualCodeProjects/Esercitazioni/Relazioni/bin/Debug/netcoreapp1.1/Relazioni.runtimeconfig.dev.json
+/home/mihai/VisualCodeProjects/Esercitazioni/Relazioni/bin/Debug/netcoreapp1.1/Relazioni.dll
+/home/mihai/VisualCodeProjects/Esercitazioni/Relazioni/bin/Debug/netcoreapp1.1/Relazioni.pdb
+/home/mihai/VisualCodeProjects/Esercitazioni/Relazioni/obj/Debug/netcoreapp1.1/Relazioni.AssemblyInfo.cs
+/home/mihai/VisualCodeProjects/Esercitazioni/Relazioni/obj/Debug/netcoreapp1.1/Relazioni.dll
+/home/mihai/VisualCodeProjects/Esercitazioni/Relazioni/obj/Debug/netcoreapp1.1/Relazioni.pdb

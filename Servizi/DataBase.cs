@@ -10,6 +10,14 @@ namespace Relazioni.Servizi{
 
         protected override void OnModelCreating(ModelBuilder builder){
             builder.Entity<Mossa>().ToTable("Mosse").HasKey(mossa => mossa.Id);
+            builder.Entity<Tavolo>().ToTable("Tavoli").HasKey(tavolo => tavolo.Id);
+
+            builder
+                .Entity<Tavolo>()
+                .HasMany(tavolo => tavolo.Mosse)
+                .WithOne(mossa => mossa.Tavolo)
+                .IsRequired();
+            
         }
         
     }

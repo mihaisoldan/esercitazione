@@ -4,6 +4,7 @@ namespace Relazioni.Modello
         public int Id {get; set;}
         
         public string Valore{get; set;}
+        public Tavolo Tavolo{get; set;}
 
     }
 }
